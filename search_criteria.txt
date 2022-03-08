@@ -1,7 +1,8 @@
 Valid criteria for each category.
-Omit the quotes when using these
+Omit the quotes when using these values
+Separate values with comma + space (i.e. EECS, SPANISH)
 
-Term - 0-1
+Term
     "Fall 2022" (default)
     "Summer 2022"
     "Spring/Summer" 2022
@@ -9,16 +10,16 @@ Term - 0-1
     "Winter 2022"
     "Fall 2021"
 
-Type - 0-1
+Type
     "Undergraduate" (default)
 
 Keyword
     One or more words that might show up in the course title, description, topic, or keyword
 
-Instructor - 0-1
+Instructor
     An instructor's uniqname
 
-Course Level - 0-5
+Course Level
     "100"
     "200"
     "300"
@@ -53,3 +54,31 @@ Skills Requirements
     "QR/1"     : Quantitative Reasoning Full
     "QR/2"     : Quantitative Reasoning Half
     "LANG_REQ" : Language Requirement
+
+Special Offerings
+    "BS"      : Bachelor of Science Eligibility
+    "CBL"     : Community-Based Learning
+    "FYS"     : First-Year Seminar
+    "HNRS"    : Honors
+    "MINI"    : Minicourse
+    "SUSTAIN" : Sustainability
+    "THEME"   : Theme Semester
+
+Meeting Days
+    "Monday"
+    "Tuesday"
+    "Wednesday"
+    "Thursday"
+    "Friday"
+    "Saturday"
+    "Sunday"
+
+Meeting Time
+    Example: "10:30 AM - 12:00 PM"
+    Must have start and end time, separated by space + dash + space
+    Each time must be followed by a space + AM/PM
+
+Instruction Modes
+    "InPerson"
+    "Online"
+    "Hybrid"
