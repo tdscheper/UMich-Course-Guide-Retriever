@@ -1,0 +1,55 @@
+Valid criteria for each category.
+Omit the quotes when using these
+
+Term - 0-1
+    "Fall 2022" (default)
+    "Summer 2022"
+    "Spring/Summer" 2022
+    "Spring 2022"
+    "Winter 2022"
+    "Fall 2021"
+
+Type - 0-1
+    "Undergraduate" (default)
+
+Keyword
+    One or more words that might show up in the course title, description, topic, or keyword
+
+Instructor - 0-1
+    An instructor's uniqname
+
+Course Level - 0-5
+    "100"
+    "200"
+    "300"
+    "400"
+    "500+"
+
+Subject
+    Department acronym, i.e. EECS
+
+Credit Hours
+    "1"
+    "2"
+    "3"
+    "4"
+    "5+"
+
+Course
+    Department acronym + number, i.e. EECS 281
+
+Distribution Requirements
+    "CE"  : Creative Expression
+    "HU"  : Humanities
+    "ID"  : Interdisciplinary
+    "MSA" : Math and Symbolic Analysis
+    "NS"  : Natural Sciences
+    "SS"  : Social Sciences
+
+Skills Requirements
+    "FYWR"     : First-Year Writing Requirement
+    "ULWR"     : Upper-Level Writing Requirement
+    "RE"       : Race and Ethnicity
+    "QR/1"     : Quantitative Reasoning Full
+    "QR/2"     : Quantitative Reasoning Half
+    "LANG_REQ" : Language Requirement
