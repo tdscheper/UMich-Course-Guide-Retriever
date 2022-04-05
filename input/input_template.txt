@@ -6,8 +6,8 @@ Course Level:
 Subject: 
 Credit Hours: 
 Course: 
-Distribution Requirements: HU
-Skills Requirements: ULWR
+Distribution Requirements: 
+Skills Requirements: 
 Special Offerings: 
 Meeting Days: 
 Meeting Time: 
