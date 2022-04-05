@@ -16,7 +16,7 @@ from specialprint import horizontal_align_print
 
 
 # Change this if you want. If not you'll have to type it each time
-FILE_PATH = 'input/example.txt'
+FILE_PATH = 'input-mine/f22-search.txt'
 
 # If you're on Mac you shouldn't have to change this
 CHROME_PATH = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
